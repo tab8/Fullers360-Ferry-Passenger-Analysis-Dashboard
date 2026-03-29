@@ -38,6 +38,7 @@ The dashboard analyses fictional ferry passenger data across six routes operated
 
 ---
 
+
 **Skills Demonstrated**
 
 
@@ -62,8 +63,9 @@ Interactive filtering with slicers
 Data storytelling through visualisation
 
 
-**About This Project**
 
+
+**About This Project**
 
 
 This dashboard was developed as part of a job application portfolio to demonstrate practical Power BI skills including data transformation, modelling, visualisation, and dashboard design. The scenario is inspired by Auckland's real ferry network for realism, but all underlying data is computer-generated and entirely fictional.
