@@ -36,7 +36,7 @@ Auckland City to Waiheke (departs every 1 hour)
 Auckland to Rangitoto (weekends only)
 Waiheke to Auckland (departs every 1 hour)
 Waiheke to Devonport via Auckland
-Harbour Cruise (summer only — December to March)
+Harbour Cruise (summer only: December to March)
 Season Classification
 Peak: December to March (summer)
 Shoulder: April, May, September, October, November
