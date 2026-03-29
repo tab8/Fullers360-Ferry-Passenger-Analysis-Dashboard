@@ -22,19 +22,19 @@ This Power BI dashboard was built as a portfolio project to demonstrate practica
 
 The dashboard analyses fictional ferry passenger data across six routes operated by a simulated ferry network based loosely on Auckland's Hauraki Gulf ferry services. It demonstrates the following analytical capabilities:
 
-**Total passengers by route** — horizontal bar chart comparing passenger volumes across all routes
+**Total passengers by route** - horizontal bar chart comparing passenger volumes across all routes
 
 
-**Monthly passenger trend** — line chart showing seasonal fluctuation across 12 months
+**Monthly passenger trend** - line chart showing seasonal fluctuation across 12 months
 
 
-**Peak vs off-peak comparison** — column chart comparing passenger volumes across Peak, Shoulder, and Off-Peak seasons
+**Peak vs off-peak comparison** - column chart comparing passenger volumes across Peak, Shoulder, and Off-Peak seasons
 
 
-**Total annual passengers KPI** — card visual showing the overall annual passenger count
+**Total annual passengers KPI** - card visual showing the overall annual passenger count
 
 
-**Interactive slicers** — route and month filters allowing dynamic exploration of the data
+**Interactive slicers** - route and month filters allowing dynamic exploration of the data
 
 ---
 
