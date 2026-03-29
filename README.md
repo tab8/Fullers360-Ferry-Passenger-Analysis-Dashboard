@@ -1,5 +1,4 @@
 # Fullers360-Ferry-Passenger-Analysis-Dashboard
-Fullers360 Ferry Passenger Analysis Dashboard Demo Only
 
 Note: I originally intended to provide the source data and a live link to the interactive dashboard. However, I have opted to showcase the project through detailed high-resolution screenshots. I would be more than happy to perform a live demonstration of the dashboard's full functionality and DAX logic during a personal interview.
 
