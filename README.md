@@ -1,7 +1,8 @@
 # Fullers360-Ferry-Passenger-Analysis-Dashboard
 
 
-Note: I originally intended to provide the source data and a live link to the interactive dashboard. However, I have opted to showcase the project through detailed **high-resolution screenshots**. I would be more than happy to perform a live demonstration of the dashboard's full functionality and DAX logic during a personal interview.
+> [!NOTE]
+>I originally intended to provide the source data and a live link to the interactive dashboard. However, I have opted to showcase the project through detailed **high->resolution screenshots**. I would be more than happy to perform a live demonstration of the dashboard's full functionality and DAX logic during a personal interview.
 
 
 ---
@@ -17,57 +18,82 @@ This Power BI dashboard was built as a portfolio project to demonstrate practica
 
 
 
+
 **What This Dashboard Shows**
 
 
 The dashboard analyses fictional ferry passenger data across six routes operated by a simulated ferry network based loosely on Auckland's Hauraki Gulf ferry services. It demonstrates the following analytical capabilities:
 
-**Total passengers by route** - horizontal bar chart comparing passenger volumes across all routes
 
 
-**Monthly passenger trend** - line chart showing seasonal fluctuation across 12 months
+**Visual 1: Total Passengers by Route (Bar Chart)**
 
 
-**Peak vs off-peak comparison** - column chart comparing passenger volumes across Peak, Shoulder, and Off-Peak seasons
+- Shows relative passenger volume across all six routes
+
+- Devonport route leads due to high departure frequency (every 30 mins)
+
+- Rangitoto and Harbour Cruise show lower volumes due to operating restrictions
 
 
-**Total annual passengers KPI** - card visual showing the overall annual passenger count
+**Visual 2: Peak vs Off-Peak Comparison (Column Chart)**
+
+- Compares total passengers across three seasons
+
+- Demonstrates clear seasonality in the ferry network
+
+- Peak season significantly outperforms Off-Peak due to summer tourism and activity
 
 
-**Interactive slicers** - route and month filters allowing dynamic exploration of the data
+**Visual 3: Monthly Passenger Trend (Line Chart)**
+
+- Shows month-by-month passenger volume across the full year
+
+- Clear dip visible June through August (NZ winter)
+
+- Strong recovery from October onward into summer peak
+
+
+**Visual 4: Total Annual Passengers (KPI Card)**
+
+- Single figure showing total simulated passengers for 2024
+
+- Approximately 2.47 million across all routes and all months
+
+
+**Visual 5 & 6: Slicers (Route and Month)**
+
+- Allow interactive filtering of all visuals simultaneously
+
+- Route slicer filters by individual ferry route
+
+- Month slicer filters by calendar month
 
 ---
 
 
 **Skills Demonstrated**
 
-
-Data modelling and relationships in Power BI
-
-
-Power Query for data transformation and cleaning
+- Data modelling and relationships in Power BI
 
 
-DAX measure creation
+- Power Query for data transformation and cleaning
 
 
-Dashboard design and layout
+- DAX measure creation
 
 
-Seasonal trend analysis
+- Dashboard design and layout
 
 
-Interactive filtering with slicers
+- Seasonal trend analysis
 
 
-Data storytelling through visualisation
+- Interactive filtering with slicers
 
 
+- Data storytelling through visualisation
 
 
-**About This Project**
-
-
-This dashboard was developed as part of a job application portfolio to demonstrate practical Power BI skills including data transformation, modelling, visualisation, and dashboard design. The scenario is inspired by Auckland's real ferry network for realism, but all underlying data is computer-generated and entirely fictional.
 
 🙋Created by Mark Thomas Bundang| | https://github.com/tab8
