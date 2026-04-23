@@ -4,23 +4,24 @@
 > [!NOTE]
 >I originally intended to provide the source data and a live link to the interactive dashboard. However, I have opted to showcase the project through detailed **high resolution screenshots**. I would be more than happy to perform a live demonstration of the dashboard's full functionality and DAX logic during a personal interview.
 
-
----
-
-
+&nbsp;
+&nbsp;
 
 **Fullers360 Ferry Passenger Analysis Dashboard Overview**
 
 
 This Power BI dashboard was built as a portfolio project to demonstrate practical data analysis and visualisation skills using Microsoft Power BI.
 
+&nbsp;
+&nbsp;
 
 **What This Dashboard Shows**
 
 
 The dashboard analyses fictional ferry passenger data across six routes operated by a simulated ferry network based loosely on Auckland's Hauraki Gulf ferry services. It demonstrates the following analytical capabilities:
 
-
+&nbsp;
+&nbsp;
 
 **Visual 1: Total Passengers by Route (Bar Chart)**
 
@@ -64,8 +65,9 @@ The dashboard analyses fictional ferry passenger data across six routes operated
 - Route slicer filters by individual ferry route
 
 - Month slicer filters by calendar month
-
----
+  
+&nbsp;
+&nbsp;
 
 
 **Skills Demonstrated**
