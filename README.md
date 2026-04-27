@@ -4,15 +4,13 @@
 > [!NOTE]
 >I originally intended to provide the source data and a live link to the interactive dashboard. However, I have opted to showcase the project through detailed **high resolution screenshots**. I would be more than happy to perform a live demonstration of the dashboard's full functionality and DAX logic during a personal interview.
 
-&nbsp;
-&nbsp;
+<br>
 
 **Fullers360 Ferry Passenger Analysis Dashboard Overview**
 
 
 This Power BI dashboard was built as a portfolio project to demonstrate practical data analysis and visualisation skills using Microsoft Power BI.
 
-&nbsp;
 &nbsp;
 
 **What This Dashboard Shows**
@@ -91,9 +89,11 @@ The dashboard analyses fictional ferry passenger data across six routes operated
 
 
 - Data storytelling through visualisation
+<br>
 
 
-
+>[!IMPORTANT]
 > \*\*Disclaimer:\*\* All data in this project is entirely fictional and randomly generated for demonstration purposes only. This dashboard is not affiliated with, endorsed by, or representative of Fullers360 or any of its subsidiaries. No real passenger, operational, or financial data has been used. This project was created solely for job application and skills demonstration purposes.
 
+<br>
 🙋Created by Mark Thomas Bundang| | https://github.com/tab8
