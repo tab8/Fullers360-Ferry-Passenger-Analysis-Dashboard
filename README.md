@@ -4,14 +4,10 @@
 > [!NOTE]
 >I originally intended to provide the source data and a live link to the interactive dashboard. However, I have opted to showcase the project through detailed **high resolution screenshots**. I would be more than happy to perform a live demonstration of the dashboard's full functionality and DAX logic during a personal interview.
 
-<br>
-
 ## Overview
-
 
 This Power BI dashboard was built as a portfolio project to demonstrate practical data analysis and visualisation skills using Microsoft Power BI.
 
-&nbsp;
 
 **What This Dashboard Shows**
 
